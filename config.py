@@ -4,7 +4,6 @@ import secrets
 
 password = "db@8910"
 encoded_password = urllib.parse.quote(password)
-# print(encoded_password)
 
 
 # Generate a secure random string
